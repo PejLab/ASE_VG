@@ -1,5 +1,5 @@
 # ASE VG
-This repository contains reference VG estimates from population level reference datasets using our ANEVA-h framework. The value of VG can be used for performing outlier testing for ASE using case-level allele-specific expression (ASE) Data.
+This repository contains reference VG estimates from population level reference datasets using our ANEVA-h framework. The value of VG can be used for performing outlier testing for allele-specific expression (ASE) Data using [ANEVA-DOT](https://github.com/PejLab/ANEVA-DOT).
 
 ## Data Format
 Each file is an excel file with the following:
