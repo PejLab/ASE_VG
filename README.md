@@ -4,7 +4,7 @@ This repository contains reference VG estimates from population level reference 
 ## Data Format
 Each file is an excel file with the following:
 * Each row corresponds to a gene ID (idenitifed by ENSEMBL ID)
-* For GTEx, each column is a tissue (abbreviated) with corresponding values being the VG of the gene (lower bound, VG, upperbound) from a parametric bootrap.  
+* For GTEx, each column is a tissue (abbreviated) with corresponding values being the VG of the gene (lower bound, VG, upperbound) from a 95% parametric confidence interval.  
 * For MAGE, each column in an ancestry group with corresponding values being the VG of the gene (lower bound, VG, upperbound) from a parametric bootrap.  
 
 ## Datasets
