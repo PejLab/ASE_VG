@@ -1,4 +1,7 @@
 # ASE VG
+
+[![DOI](https://zenodo.org/badge/966396681.svg)](https://doi.org/10.5281/zenodo.15226129)
+
 This repository contains reference VG estimates from population level reference datasets using our ANEVA-h framework. The value of VG can be used for performing outlier testing for allele-specific expression (ASE) Data using [ANEVA-DOT](https://github.com/PejLab/ANEVA-DOT).
 
 ## Data Format
